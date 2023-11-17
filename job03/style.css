@@ -1,0 +1,38 @@
+.section1 
+{
+    background-color:#88c1d0;
+}
+
+.section2 
+{
+    background-color:#88c1d0;
+}
+
+.section3 
+{
+    background-color:#88c1d0;
+}
+
+.section4
+{
+    background-color:#88c1d0;
+}
+
+
+@media screen and (min-width: 1680px) and (max-width: 1920px) {
+    .section1 {
+        background-color: #ffca4b;        
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1599px) {
+    .section2 {
+        background-color: #275fa0;        
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .section3 {
+        background-color: #ffffff;        
+    }
+}
